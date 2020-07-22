@@ -10,4 +10,4 @@ The Docs.  These are the metadata documents that drive and describe the behavior
 
 ## Systems
 
-1. [System Utility Software (SUS) Schema](https://github.com/th3b0x/DAS_Docs/doc/sus.md)  
+1. [System Utility Software (SUS) Schema](https://github.com/th3b0x/DAS_Docs/tree/master/doc/sus.md)  
