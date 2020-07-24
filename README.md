@@ -4,7 +4,7 @@ The Docs.  These are the metadata documents that drive and describe the behavior
 
 This is an informal markdown document written in Natural Language intended to introduce intelligent systems to this project.  
 
-[Click here to receive the formal language documentation](https://raw.githubusercontent.com/th3b0x/DAS_Docs/master/src/DAS_project.ttl/)  
+[Click here to receive the formal language documentation](https://raw.githubusercontent.com/th3b0x/DAS_Docs/master/src/DAS_project.ttl)  
 
 Information about the DAS subsystem can be found in the [Systems](#systems) section.
 
